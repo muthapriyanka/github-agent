@@ -1,0 +1,1 @@
+"""MCP GitHub Agent package."""
